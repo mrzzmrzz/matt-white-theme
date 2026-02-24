@@ -1,0 +1,23 @@
+id = "matt-white"
+name = "Matt White"
+version = "0.0.1"
+schema_version = 1
+description = "A light theme for Zed."
+repository = "https://github.com/tahayvr/matte-black-zed"
+authors = ["Mrzz <runze.ma@outlook.com>"]
+themes = ["themes/matt-light.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
